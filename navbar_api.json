@@ -1,0 +1,107 @@
+[
+  {
+        "id" : 1,
+        "menu" : "All Exams",
+        "submenu" : [
+                      {
+                      "id" : 1,
+                      "submenu" : "SSC",
+                      "path" : "/exam_details"
+                      },
+                       {
+                      "id" : 2,
+                      "submenu" : "Banking",
+                      "path" : "/exam_details"
+                      },
+                      {
+                      "id" : 3,
+                      "submenu" : "Teaching",
+                      "path" : "/exam_details"
+                      },
+                  ]
+    },
+  {
+        "id" : 2,
+        "menu" : "Mock Test",
+        "submenu" : [
+                      {
+                      "id" : 1,
+                      "submenu" : "SSC",
+                      "path" : "/exam_details"
+                      },
+                       {
+                      "id" : 2,
+                      "submenu" : "Banking",
+                      "path" : "/exam_details"
+                      },
+                      {
+                      "id" : 3,
+                      "submenu" : "Teaching",
+                      "path" : "/exam_details"
+                      },
+                  ]
+    },
+   {
+        "id" : 3,
+        "menu" : "Daily Practice",
+        "submenu" : [
+                      {
+                      "id" : 1,
+                      "submenu" : "SSC",
+                      "path" : "/exam_details"
+                      },
+                       {
+                      "id" : 2,
+                      "submenu" : "Banking",
+                      "path" : "/exam_details"
+                      },
+                      {
+                      "id" : 3,
+                      "submenu" : "Teaching",
+                      "path" : "/exam_details"
+                      },
+                  ]
+    },
+  {
+        "id" : 4,
+        "menu" : "Question Papers",
+        "submenu" : [
+                      {
+                      "id" : 1,
+                      "submenu" : "SSC",
+                      "path" : "/exam_details"
+                      },
+                       {
+                      "id" : 2,
+                      "submenu" : "Banking",
+                      "path" : "/exam_details"
+                      },
+                      {
+                      "id" : 3,
+                      "submenu" : "Teaching",
+                      "path" : "/exam_details"
+                      },
+                  ]
+    },
+   {
+        "id" : 5,
+        "menu" : "Why Choose Us",
+        "submenu" : [
+                      {
+                      "id" : 1,
+                      "submenu" : "SSC",
+                      "path" : "/exam_details"
+                      },
+                       {
+                      "id" : 2,
+                      "submenu" : "Banking",
+                      "path" : "/exam_details"
+                      },
+                      {
+                      "id" : 3,
+                      "submenu" : "Teaching",
+                      "path" : "/exam_details"
+                      },
+                  ]
+    },
+]
