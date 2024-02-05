@@ -3,40 +3,48 @@
     "id": 1,
     "image": "test",
     "title": "SSC MTS",
-    "dataList": [{ 
-                "chapter": "112 Chapter Test",
-                "section": "69 Sectional Test"
-                }],
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
     "path": "/exam_details"
-  }
+  },
   {
     "id": 2,
     "image": "test",
     "title": "SSC MTS",
-    "dataList": [{ 
-                "chapter": "112 Chapter Test",
-                "section": "69 Sectional Test"
-                }],
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
     "path": "/exam_details"
-  }
+  },
   {
     "id": 3,
     "image": "test",
     "title": "SSC MTS",
-    "dataList": [{ 
-                "chapter": "112 Chapter Test",
-                "section": "69 Sectional Test"
-                }],
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
     "path": "/exam_details"
-  }
+  },
   {
     "id": 4,
     "image": "test",
     "title": "SSC MTS",
-    "dataList": [{ 
-                "chapter": "112 Chapter Test",
-                "section": "69 Sectional Test"
-                }],
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
     "path": "/exam_details"
   }
 ]
