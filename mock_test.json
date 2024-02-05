@@ -47,4 +47,64 @@
     ],
     "path": "/exam_details"
   }
+  {
+    "id": 5,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
+    "title": "SSC MTS",
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
+    "path": "/exam_details"
+  }
+  {
+    "id": 6,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
+    "title": "SSC MTS",
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
+    "path": "/exam_details"
+  }
+   {
+    "id": 7,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
+    "title": "SSC MTS",
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
+    "path": "/exam_details"
+  }
+  {
+    "id": 8,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
+    "title": "SSC MTS",
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
+    "path": "/exam_details"
+  }
+  {
+    "id": 9,
+    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
+    "title": "SSC MTS",
+    "dataList": [
+      {
+        "chapter": "112 Chapter Test",
+        "section": "69 Sectional Test"
+      }
+    ],
+    "path": "/exam_details"
+  }
 ]
