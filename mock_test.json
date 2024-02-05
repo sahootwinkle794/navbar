@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "All Exams",
+    "title": "SSC MTS",
+    "sub_title": "112 Chapter Test",
+    "path": "/exam_details"
+  }
+  {
+    "id": 2,
+    "icon": "All Exams",
+    "title": "SSC MTS",
+    "sub_title": "112 Chapter Test",
+    "path": "/exam_details"
+  }
+  {
+    "id": 3,
+    "icon": "All Exams",
+    "title": "SSC MTS",
+    "sub_title": "112 Chapter Test",
+    "path": "/exam_details"
+  }
+  {
+    "id": 4,
+    "icon": "All Exams",
+    "title": "SSC MTS",
+    "sub_title": "112 Chapter Test",
+    "path": "/exam_details"
+  }
+]
