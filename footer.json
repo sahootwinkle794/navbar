@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "head": "Company",
+    "sublink": [{
+        "id":1,
+        "link1":"About Us",
+        "link2":"Contact Us",
+        "link3":"Privacy Policy",
+        "link4":"Terms"}]
+  },
+  {
+    "id": 2,
+    "head": "Categories",
+    "sublink": [{
+        "id":1,
+        "link1":"UPSC",
+        "link2":"Railway Exams",
+        "link3":"Banking Exams",
+        "link4":"Judiciary Exams"}]
+  },
+  {
+    "id": 3,
+    "head": "Exams",
+    "sublink": [{
+        "id":1,
+        "link1":"UPSC",
+        "link2":"Railway Exams",
+        "link3":"Banking Exams",
+        "link4":"Judiciary Exams"}]
+  }
+]
