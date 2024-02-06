@@ -2,31 +2,64 @@
   {
     "id": 1,
     "head": "Company",
-    "sublink": [{
+    "sublink": [
+      {
         "id":1,
-        "link1":"About Us",
-        "link2":"Contact Us",
-        "link3":"Privacy Policy",
-        "link4":"Terms"}]
+        "link":"About Us"
+      },
+      {
+        "id":2,
+        "link2":"Contact Us"
+      },
+      {
+        "id":3,
+        "link3":"Privacy Policy"
+      },
+      {
+        "id":4,
+        "link4":"Terms"}
+    ]
   },
   {
     "id": 2,
     "head": "Categories",
-    "sublink": [{
+    "sublink": [
+      {
         "id":1,
-        "link1":"UPSC",
-        "link2":"Railway Exams",
-        "link3":"Banking Exams",
-        "link4":"Judiciary Exams"}]
+        "link":"About Us"
+      },
+      {
+        "id":2,
+        "link2":"Contact Us"
+      },
+      {
+        "id":3,
+        "link3":"Privacy Policy"
+      },
+      {
+        "id":4,
+        "link4":"Terms"}
+    ]
   },
   {
     "id": 3,
     "head": "Exams",
-    "sublink": [{
+    "sublink": [
+      {
         "id":1,
-        "link1":"UPSC",
-        "link2":"Railway Exams",
-        "link3":"Banking Exams",
-        "link4":"Judiciary Exams"}]
+        "link":"About Us"
+      },
+      {
+        "id":2,
+        "link2":"Contact Us"
+      },
+      {
+        "id":3,
+        "link3":"Privacy Policy"
+      },
+      {
+        "id":4,
+        "link4":"Terms"}
+    ]
   }
 ]
