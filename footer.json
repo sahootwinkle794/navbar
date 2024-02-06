@@ -26,19 +26,19 @@
     "sublink": [
       {
         "id":1,
-        "link":"About Us"
+        "link":"UPSC"
       },
       {
         "id":2,
-        "link":"Contact Us"
+        "link":"Railway Exams"
       },
       {
         "id":3,
-        "link":"Privacy Policy"
+        "link":"Banking Exams"
       },
       {
         "id":4,
-        "link":"Terms"}
+        "link":"Judiciary Exams"}
     ]
   },
   {
@@ -47,19 +47,19 @@
     "sublink": [
       {
         "id":1,
-        "link":"About Us"
+        "link":"SBI PO"
       },
       {
         "id":2,
-        "link":"Contact Us"
+        "link":"SBI Clerk"
       },
       {
         "id":3,
-        "link":"Privacy Policy"
+        "link":"SSC CGL"
       },
       {
         "id":4,
-        "link":"Terms"}
+        "link":"RBI Grade B"}
     ]
   }
 ]
