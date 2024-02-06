@@ -9,15 +9,15 @@
       },
       {
         "id":2,
-        "link2":"Contact Us"
+        "link":"Contact Us"
       },
       {
         "id":3,
-        "link3":"Privacy Policy"
+        "link":"Privacy Policy"
       },
       {
         "id":4,
-        "link4":"Terms"}
+        "link":"Terms"}
     ]
   },
   {
@@ -30,15 +30,15 @@
       },
       {
         "id":2,
-        "link2":"Contact Us"
+        "link":"Contact Us"
       },
       {
         "id":3,
-        "link3":"Privacy Policy"
+        "link":"Privacy Policy"
       },
       {
         "id":4,
-        "link4":"Terms"}
+        "link":"Terms"}
     ]
   },
   {
@@ -51,15 +51,15 @@
       },
       {
         "id":2,
-        "link2":"Contact Us"
+        "link":"Contact Us"
       },
       {
         "id":3,
-        "link3":"Privacy Policy"
+        "link":"Privacy Policy"
       },
       {
         "id":4,
-        "link4":"Terms"}
+        "link":"Terms"}
     ]
   }
 ]
