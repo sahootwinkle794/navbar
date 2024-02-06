@@ -6,17 +6,17 @@
   },
 {
     "id": 2,
-    "image": "What are the benefits ?",
-    "title": "All types of benefits you can get here."
+    "question": "What are the benefits ?",
+    "answer": "All types of benefits you can get here."
   },
 {
     "id": 3,
-    "image": "What are the benefits ?",
-    "title": "All types of benefits you can get here."
+    "question": "What are the benefits ?",
+    "answer": "All types of benefits you can get here."
   },
   {
     "id": 4,
-    "image": "What are the benefits ?",
-    "title": "All types of benefits you can get here."
+    "question": "What are the benefits ?",
+    "answer": "All types of benefits you can get here."
   }
 ]
