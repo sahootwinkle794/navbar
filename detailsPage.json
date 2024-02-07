@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "head": "Company",
+    "sublink": [
+      {
+        "id":1,
+        "link":"About Us"
+      },
+      {
+        "id":2,
+        "link":"Contact Us"
+      },
+      {
+        "id":3,
+        "link":"Privacy Policy"
+      },
+      {
+        "id":4,
+        "link":"Terms"}
+    ]
+  },
+  {
+    "id": 2,
+    "head": "Categories",
+    "sublink": [
+      {
+        "id":1,
+        "link":"UPSC"
+      },
+      {
+        "id":2,
+        "link":"Railway Exams"
+      },
+      {
+        "id":3,
+        "link":"Banking Exams"
+      },
+      {
+        "id":4,
+        "link":"Judiciary Exams"}
+    ]
+  },
+  {
+    "id": 3,
+    "head": "Exams",
+    "sublink": [
+      {
+        "id":1,
+        "link":"SBI PO"
+      },
+      {
+        "id":2,
+        "link":"SBI Clerk"
+      },
+      {
+        "id":3,
+        "link":"SSC CGL"
+      },
+      {
+        "id":4,
+        "link":"RBI Grade B"}
+    ]
+  }
+]
