@@ -3,27 +3,57 @@
     "id": 1,
     "banner_title": "SSC Details Page",
     "tabs": [
-      {
-        "id":1,
-        "tabTitle":"Find Plan"
-      },
-      {
-        "id":2,
-        "tabTitle":"Free Mock Test"
-      },
-      {
-        "id":3,
-        "tabTitle":"Daily Practice"
-      },
-      {
-        "id":4,
-        "tabTitle":"Prev Question Papers"
-      },
-      {
-        "id":5,
-        "tabTitle":"Syllabus"
-      }
-    ]
+            {
+                "id":1,
+                "tabTitle":"Find Plan",
+                "tabContent":[
+                              {
+                                "id":1,
+                                "heading":"SSC CGL Mock Test Plan :",
+                              }
+                            ]
+            },
+            {
+                "id":2,
+                "tabTitle":"Free Mock Test",
+                "tabContent":[
+                              {
+                                "id":1,
+                                "heading":"SSC CGL Mock Test Plan :",
+                              }
+                            ]
+            },
+            {
+                "id":3,
+                "tabTitle":"Daily Practice",
+                "tabContent":[
+                              {
+                                "id":1,
+                                "heading":"SSC CGL Mock Test Plan :",
+                              }
+                            ]
+            },
+            {
+                "id":4,
+                "tabTitle":"Prev Question Papers",
+                "tabContent":[
+                              {
+                                "id":1,
+                                "heading":"SSC CGL Mock Test Plan :",
+                              }
+                            ]
+            },
+            {
+                "id":5,
+                "tabTitle":"Syllabus",
+                "tabContent":[
+                              {
+                                "id":1,
+                                "heading":"SSC CGL Mock Test Plan :",
+                              }
+                            ]
+            }
+          ]
   }
 
  
