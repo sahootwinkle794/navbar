@@ -1,65 +1,30 @@
 [
   {
     "id": 1,
-    "head": "Company",
-    "sublink": [
+    "banner_title": "SSC Details Page",
+    "tabs": [
       {
         "id":1,
-        "link":"About Us"
+        "tabTitle":"Find Plan"
       },
       {
         "id":2,
-        "link":"Contact Us"
+        "tabTitle":"Free Mock Test"
       },
       {
         "id":3,
-        "link":"Privacy Policy"
+        "tabTitle":"Daily Practice"
       },
       {
         "id":4,
-        "link":"Terms"}
-    ]
-  },
-  {
-    "id": 2,
-    "head": "Categories",
-    "sublink": [
-      {
-        "id":1,
-        "link":"UPSC"
+        "tabTitle":"Prev Question Papers"
       },
       {
-        "id":2,
-        "link":"Railway Exams"
-      },
-      {
-        "id":3,
-        "link":"Banking Exams"
-      },
-      {
-        "id":4,
-        "link":"Judiciary Exams"}
-    ]
-  },
-  {
-    "id": 3,
-    "head": "Exams",
-    "sublink": [
-      {
-        "id":1,
-        "link":"SBI PO"
-      },
-      {
-        "id":2,
-        "link":"SBI Clerk"
-      },
-      {
-        "id":3,
-        "link":"SSC CGL"
-      },
-      {
-        "id":4,
-        "link":"RBI Grade B"}
+        "id":5,
+        "tabTitle":"Syllabus"
+      }
     ]
   }
+
+ 
 ]
