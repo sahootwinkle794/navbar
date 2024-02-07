@@ -33,8 +33,29 @@
                                                       "section":"63 Sectional Test"
                                                     }
                                             
-                                                ]
-                                
+                                                ],
+                                "faq":[
+                                          {
+                                            "id": 1,
+                                            "question": "What are the benefits ?",
+                                            "answer": "All types of benefits you can get here."
+                                          },
+                                        {
+                                            "id": 2,
+                                            "question": "What are the benefits ?",
+                                            "answer": "All types of benefits you can get here."
+                                          },
+                                        {
+                                            "id": 3,
+                                            "question": "What are the benefits ?",
+                                            "answer": "All types of benefits you can get here."
+                                          },
+                                          {
+                                            "id": 4,
+                                            "question": "What are the benefits ?",
+                                            "answer": "All types of benefits you can get here."
+                                          }
+                                      ]
                               }
                             ]
             },
