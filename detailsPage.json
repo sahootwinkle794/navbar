@@ -10,6 +10,31 @@
                               {
                                 "id":1,
                                 "heading":"SSC CGL Mock Test Plan :",
+                                "planCardContent":[
+                                                    {
+                                                      "id":1,
+                                                      "title":"SSC MTS1",
+                                                      "subtitle":"SSC MTS and Havaldar 2023 Mock Test Series",
+                                                      "chapter":"111 Chapter Test",
+                                                      "section":"61 Sectional Test"
+                                                    }
+                                                    {
+                                                      "id":2,
+                                                      "title":"SSC MTS2",
+                                                      "subtitle":"SSC MTS and Havaldar 2023 Mock Test Series",
+                                                      "chapter":"112 Chapter Test",
+                                                      "section":"62 Sectional Test"
+                                                    }
+                                                    {
+                                                      "id":3,
+                                                      "title":"SSC MTS3",
+                                                      "subtitle":"SSC MTS and Havaldar 2023 Mock Test Series",
+                                                      "chapter":"113 Chapter Test",
+                                                      "section":"63 Sectional Test"
+                                                    }
+                                            
+                                                ]
+                                
                               }
                             ]
             },
