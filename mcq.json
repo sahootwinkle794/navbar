@@ -1,0 +1,56 @@
+[
+  {
+    "id":1,
+    "question":"Inside which HTML element do we put the JavaScript?",
+    "options":[
+                {
+                  "id":1,
+                  "option1":"option1"
+                },
+                {
+                  "id":2,
+                  "option2":"option2"
+                },
+                {
+                  "id":3,
+                  "option3":"option3"
+                },
+                {
+                  "id":4,
+                  "option4":"option4"
+                }
+    
+              ],
+    "answer":{
+                  "id":2,
+                  "option2":"option2"
+                }
+  },
+  {
+    "id":1,
+    "question":"Inside which HTML element do we put the JavaScript?",
+    "options":[
+                {
+                  "id":1,
+                  "option1":"option1"
+                },
+                {
+                  "id":2,
+                  "option2":"option2"
+                },
+                {
+                  "id":3,
+                  "option3":"option3"
+                },
+                {
+                  "id":4,
+                  "option4":"option4"
+                }
+    
+              ],
+    "answer":{
+                  "id":2,
+                  "option2":"option2"
+                }
+  }
+]
