@@ -1,0 +1,1 @@
+[SSC GD Constable 2022 Official Paper (Held On 10 Jan 2023 Shift 1) (English).pdf](https://github.com/sahootwinkle794/testseries_json_api/files/14341303/SSC.GD.Constable.2022.Official.Paper.Held.On.10.Jan.2023.Shift.1.English.pdf)
