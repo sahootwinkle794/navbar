@@ -1,110 +1,19 @@
 [
   {
-    "id": 1,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
+  "tab1": {
+    "mockTestPlan": "Here is the detailed SSC CGL Mock Test Plan. It includes various stages and schedules for the mock tests."
   },
-  {
-    "id": 2,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
+  "tab2": {
+    "freeMockTest": "Here is the information about the free mock test available. It includes test details and access information."
   },
-  {
-    "id": 3,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
+  "tab3": {
+    "singlePageComponent": "Content for the single-page component, such as specific exam details or other related information."
   },
-  {
-    "id": 4,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
+  "tab4": {
+    "dailyPractice": "Content for daily practice, including practice problems, tips, and daily exercises."
   },
-  {
-    "id": 5,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
-  },
-  {
-    "id": 6,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
-  },
-   {
-    "id": 7,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
-  },
-  {
-    "id": 8,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
-  },
-  {
-    "id": 9,
-    "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201812/ssc_2.png?size=690:388",
-    "title": "SSC MTS",
-    "dataList": [
-      {
-        "chapter": "112 Chapter Test",
-        "section": "69 Sectional Test"
-      }
-    ],
-    "path": "/exam_details"
+  "tab5": {
+    "prevQuestionPapers": "Content for previous question papers, including downloadable PDFs or access links."
   }
+}
 ]
