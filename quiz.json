@@ -1,0 +1,119 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the primary function of the executive branch of government?",
+            "options": [
+                {
+                    "option_id": "a",
+                    "text": "To interpret laws"
+                },
+                {
+                    "option_id": "b",
+                    "text": "To create laws"
+                },
+                {
+                    "option_id": "c",
+                    "text": "To enforce laws"
+                },
+                {
+                    "option_id": "d",
+                    "text": "To amend the constitution"
+                }
+            ],
+            "correct_answer": "c"
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is a key principle of democracy?",
+            "options": [
+                {
+                    "option_id": "a",
+                    "text": "Dictatorship"
+                },
+                {
+                    "option_id": "b",
+                    "text": "Popular sovereignty"
+                },
+                {
+                    "option_id": "c",
+                    "text": "Monarchy"
+                },
+                {
+                    "option_id": "d",
+                    "text": "Autocracy"
+                }
+            ],
+            "correct_answer": "b"
+        },
+        {
+            "id": 3,
+            "question": "Which of the following factors can contribute to economic growth?",
+            "options": [
+                {
+                    "option_id": "a",
+                    "text": "Increased investment in technology"
+                },
+                {
+                    "option_id": "b",
+                    "text": "Reduced productivity"
+                },
+                {
+                    "option_id": "c",
+                    "text": "Decreased education levels"
+                },
+                {
+                    "option_id": "d",
+                    "text": "Political instability"
+                }
+            ],
+            "correct_answer": "a"
+        },
+        {
+            "id": 4,
+            "question": "What is the main role of the United Nations?",
+            "options": [
+                {
+                    "option_id": "a",
+                    "text": "To facilitate international peace and security"
+                },
+                {
+                    "option_id": "b",
+                    "text": "To regulate international trade"
+                },
+                {
+                    "option_id": "c",
+                    "text": "To govern member countries"
+                },
+                {
+                    "option_id": "d",
+                    "text": "To establish global economic policies"
+                }
+            ],
+            "correct_answer": "a"
+        },
+        {
+            "id": 5,
+            "question": "Which of the following is a characteristic of a mixed economy?",
+            "options": [
+                {
+                    "option_id": "a",
+                    "text": "Complete government control of all industries"
+                },
+                {
+                    "option_id": "b",
+                    "text": "No government intervention in the economy"
+                },
+                {
+                    "option_id": "c",
+                    "text": "A combination of private and public sector participation"
+                },
+                {
+                    "option_id": "d",
+                    "text": "Private ownership of all resources"
+                }
+            ],
+            "correct_answer": "c"
+        }
+    ]
+}
