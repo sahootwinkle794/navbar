@@ -1,0 +1,41 @@
+{
+    "examDetails": {
+        "examName": "Final Mathematics Exam",
+        "subject": "Mathematics",
+        "date": "2024-09-30",
+        "startTime": "10:00 AM",
+        "endTime": "1:00 PM",
+        "duration": "3 hours"
+    },
+    "instructions": [
+        {
+            "id": 1,
+            "title": "General Instructions",
+            "details": [
+                "Read all questions carefully before answering.",
+                "You are not allowed to leave the examination hall during the first and last 30 minutes.",
+                "Ensure that all personal belongings are placed in the designated area.",
+                "Using mobile phones or any electronic devices is prohibited."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Answer Sheet Instructions",
+            "details": [
+                "Write your name and roll number clearly on the answer sheet.",
+                "Use a black or blue pen for writing answers.",
+                "Answer all questions in the space provided in the answer booklet.",
+                "Do not use correction fluid or erasers excessively."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Submission Instructions",
+            "details": [
+                "Make sure to check your answers before submitting.",
+                "Ensure that your answer sheet is complete and signed by the invigilator before submission.",
+                "Hand over the question paper and answer sheet to the invigilator once the exam is over."
+            ]
+        }
+    ]
+}
